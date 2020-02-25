@@ -10,6 +10,10 @@
 *.userosscache
 *.sln.docstates
 
+
+#我設定的 ignore
+/test
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
