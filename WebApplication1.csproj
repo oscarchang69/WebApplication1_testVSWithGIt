@@ -83,6 +83,8 @@
     <Content Include="a.html" />
     <Content Include="b.html" />
     <Content Include="c.html" />
+    <Content Include="f01\f01-03.html" />
+    <Content Include="f01\f01-04.html" />
     <Content Include="f01\f01-1.html" />
     <Content Include="f01\f01-2.html" />
     <Content Include="Global.asax" />
